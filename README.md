@@ -1,2 +1,2 @@
 # hongshujs
-Not start yet bu soon
+Not start yet but soon
